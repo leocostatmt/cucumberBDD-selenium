@@ -1,4 +1,4 @@
-# Cucumber BDD & Selenium WebDriver
+# Cucumber BDD & Selenium WebDriver Java
 
 **Repository for the course of Cucumber BDD with Selenium WebDriver**
 
